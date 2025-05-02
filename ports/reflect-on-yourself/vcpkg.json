@@ -1,0 +1,17 @@
+{
+  "name": "reflect-on-yourself",
+  "version": "0.0.1-alpha",
+  "homepage": "https://github.com/vaijns/reflect-on-yourself",
+  "description": "C++ reflection but you have to do it yourself",
+  "license": "MIT",
+  "dependencies": [
+    {
+      "name" : "vcpkg-cmake",
+      "host" : true
+    },
+    {
+      "name" : "vcpkg-cmake-config",
+      "host" : true
+    }
+  ]
+}

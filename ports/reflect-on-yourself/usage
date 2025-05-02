@@ -1,0 +1,4 @@
+reflect-on-yourself provides CMake targets:
+
+    find_package(reflect-on-yourself CONFIG REQUIRED)
+    target_link_libraries(main PRIVATE reflect-on-yourself::reflect-on-yourself)
